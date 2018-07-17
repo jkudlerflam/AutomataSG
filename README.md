@@ -5,5 +5,9 @@ Internal Diffusion Limited Aggregation (IDLA), Rotor-Router Aggregation (RRA), t
 With a little bit of modification, it can be used for simulating cellular automata on other graphs. 
 For those interested in the research that has relied on this package, see:
 
+http://math.colgate.edu/~jpchen/research/index.html
+
+
+DOI:
 
 https://zenodo.org/badge/DOI/10.5281/zenodo.1246802.svg
